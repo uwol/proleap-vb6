@@ -18,8 +18,7 @@ This program is free software under AGPL v3 license and in this form comes witho
 Where to look next
 ------------------
 
-- [ANTLR4 COBOL grammar](https://github.com/uwol/proleap-cobol-parser/tree/master/src/main/antlr4/io/proleap/cobol/Cobol.g4)
-- [ANTLR4 COBOL preprocessor grammar](https://github.com/uwol/proleap-cobol-parser/tree/master/src/main/antlr4/io/proleap/cobol/CobolPreprocessor.g4)
+- [ANTLR4 COBOL grammar](https://github.com/uwol/proleap-vb6-parser/tree/master/src/main/antlr4/io/proleap/vb6/VisualBasic6.g4)
 - [Analysis unit tests](proleap-vb6-analysis/src/test/java/io/proleap/vb6/analysis)
 - [Transform unit tests](proleap-vb6-transform/src/test/java/io/proleap/vb6/transform)
 
