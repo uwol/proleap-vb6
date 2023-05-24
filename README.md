@@ -9,12 +9,6 @@ This is an analyzer & transformer for Visual Basic 6.0 based on [ProLeap Visual 
 [![ProLeap on Twitter](https://img.shields.io/twitter/follow/proleap_io.svg?style=social&label=Follow)](https://twitter.com/proleap_io)
 
 
-Getting started
----------------
-
-Use the following code as a starting point for developing own code.
-
-
 Where to look next
 ------------------
 
