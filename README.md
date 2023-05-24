@@ -26,7 +26,7 @@ Where to look next
 Build dependency proleap-vb6-parser
 -----------------------------------
 
-* Clone repository `https://github.com/uwol/proleap-vb6-parser` locally.
+* Clone repository [uwol/proleap-vb6-parser](https://github.com/uwol/proleap-vb6-parser) locally.
 * As described in the README.md of that repository, run:
 
 ```
