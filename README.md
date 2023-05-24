@@ -1,8 +1,7 @@
 ProLeap ANTLR4-based analyzer & transformer for Visual Basic 6.0
 ================================================================
 
-This is an analyzer & transformer for Visual Basic 6.0 based on [ProLeap Visual Basic 6.0 parser](https://github.com/uwol/proleap-vb6-parser), 
-which generates an **Abstract Syntax Tree** (AST) and **Abstract Semantic Graph** (ASG) for Visual Basic 6.0 code.
+This is an analyzer & transformer for Visual Basic 6.0 based on [ProLeap Visual Basic 6.0 parser](https://github.com/uwol/proleap-vb6-parser). The parser generates an **Abstract Syntax Tree** (AST) and **Abstract Semantic Graph** (ASG) for Visual Basic 6.0 code, which then is processed by this analyzer & transformer.
 
 💫 **Star** if you like our work.
 
