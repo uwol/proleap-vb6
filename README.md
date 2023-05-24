@@ -1,7 +1,7 @@
-proleap-vb6
-===========
+ProLeap ANTLR4-based analyzer & transformer for Visual Basic 6.0
+================================================================
 
-Code base for proleap-vb6 that allows you to analyze, execute & transform Visual Basic 6.0 in the cloud.
+Code base for proleap-vb6 that allows you to analyze & transform Visual Basic 6.0 in the cloud.
 
 
 Eclipse
