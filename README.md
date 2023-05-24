@@ -10,6 +10,21 @@ which generates an **Abstract Syntax Tree** (AST) and **Abstract Semantic Graph*
 [![ProLeap on Twitter](https://img.shields.io/twitter/follow/proleap_io.svg?style=social&label=Follow)](https://twitter.com/proleap_io)
 
 
+Getting started
+---------------
+
+Use the following code as a starting point for developing own code.
+
+
+Where to look next
+------------------
+
+- [ANTLR4 COBOL grammar](https://github.com/uwol/proleap-cobol-parser/tree/master/src/main/antlr4/io/proleap/cobol/Cobol.g4)
+- [ANTLR4 COBOL preprocessor grammar](https://github.com/uwol/proleap-cobol-parser/tree/master/src/main/antlr4/io/proleap/cobol/CobolPreprocessor.g4)
+- [Analysis unit tests](proleap-vb6-analysis/src/test/java/io/proleap/vb6/analysis)
+- [Transform unit tests](proleap-vb6-transform/src/test/java/io/proleap/vb6/transform)
+
+
 Build dependency proleap-vb6-parser
 -----------------------------------
 
@@ -43,20 +58,12 @@ $ mvn clean package
 ```
 [INFO] Scanning for projects...
 ...
--------------------------------------------------------
- T E S T S
--------------------------------------------------------
-Running io.proleap.cobol.ast.fixed.FixedTest
-Preprocessing file Fixed.cbl.
-Parsing file Fixed.cbl.
-Comparing parse tree with file Fixed.cbl.tree.
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.202 sec
-Running io.proleap.cobol.ast.fixed.QuotesInCommentEntryTest
-...
-Results :
-
-Tests run: 680, Failures: 0, Errors: 0, Skipped: 0
-
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for proleap-vb6 1.0.0:
+[INFO] 
+[INFO] proleap-vb6 ........................................ SUCCESS [  0.108 s]
+[INFO] proleap-vb6-analysis ............................... SUCCESS [  3.270 s]
+[INFO] proleap-vb6-transform .............................. SUCCESS [  4.496 s]
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
