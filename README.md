@@ -9,6 +9,12 @@ This is an analyzer & transformer for Visual Basic 6.0 based on [ProLeap Visual 
 [![ProLeap on Twitter](https://img.shields.io/twitter/follow/proleap_io.svg?style=social&label=Follow)](https://twitter.com/proleap_io)
 
 
+Support
+-------
+
+This program is free software under AGPL v3 license and in this form comes without support.
+
+
 Where to look next
 ------------------
 
