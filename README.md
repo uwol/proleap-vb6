@@ -51,6 +51,8 @@ $ mvn clean package
 ```
 
 * The test suite executes tests against Visual Basic 6.0 test code.
+* If error `Missing artifact io.github.uwol:proleap-vb6-parser:jar:4.0.0` comes up, please check that dependency `proleap-vb6-parser` has been properly installed by Maven as described above.
+* If error `io.micronaut.context.exceptions.NoSuchBeanException: No bean of type ...` comes up, please check that Annotation Processing has been properly configured in Eclipse as described above. Optionally in Eclipse right-click the project then Maven > Update project.
 * You should see output like this:
 
 ```
