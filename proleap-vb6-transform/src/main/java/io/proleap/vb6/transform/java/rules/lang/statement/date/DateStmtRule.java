@@ -1,6 +1,6 @@
 package io.proleap.vb6.transform.java.rules.lang.statement.date;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.DateStmtContext;
 import io.proleap.vb6.asg.metamodel.statement.date.Date;

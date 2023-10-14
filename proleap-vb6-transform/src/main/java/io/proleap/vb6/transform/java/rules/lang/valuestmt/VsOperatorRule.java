@@ -3,7 +3,7 @@ package io.proleap.vb6.transform.java.rules.lang.valuestmt;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.ValueStmtContext;
 import io.proleap.vb6.asg.metamodel.Operator.VbOperator;

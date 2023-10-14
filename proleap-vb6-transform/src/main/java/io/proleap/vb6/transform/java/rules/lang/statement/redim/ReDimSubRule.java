@@ -1,6 +1,6 @@
 package io.proleap.vb6.transform.java.rules.lang.statement.redim;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.RedimSubStmtContext;
 import io.proleap.vb6.asg.metamodel.statement.redim.ReDim;

@@ -7,12 +7,12 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.List;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.dom4j.Document;
 import org.junit.jupiter.api.Test;
 
-import io.micronaut.test.annotation.MicronautTest;
+import io.micronaut.test.extensions.junit5.annotation.MicronautTest;
 import io.proleap.vb6.analysis.TestBase;
 import io.proleap.vb6.analysis.codexml.VbCodeXmlRunner;
 import io.proleap.vb6.analysis.registry.VbIdRegistry;

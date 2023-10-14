@@ -7,11 +7,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.junit.jupiter.api.Test;
 
-import io.micronaut.test.annotation.MicronautTest;
+import io.micronaut.test.extensions.junit5.annotation.MicronautTest;
 import io.proleap.vb6.analysis.TestBase;
 import io.proleap.vb6.analysis.issues.rules.statement.constant.UncalledConstantFeatureGenerator;
 import io.proleap.vb6.asg.metamodel.Module;

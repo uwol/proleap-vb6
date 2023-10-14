@@ -2,7 +2,7 @@ package io.proleap.vb6.transform.java.rules.api.vba;
 
 import java.util.List;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.ICS_S_MembersCallContext;
 import io.proleap.vb6.asg.metamodel.call.Call;

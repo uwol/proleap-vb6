@@ -3,7 +3,7 @@ package io.proleap.vb6.transform.java.rules.lang.statement.onerror;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import org.antlr.v4.runtime.ParserRuleContext;
 

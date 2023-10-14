@@ -2,7 +2,7 @@ package io.proleap.vb6.analysis.issues.rules.statement.enumeration;
 
 import java.util.stream.Stream;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.analysis.issues.rules.FeatureGenerator;
 import io.proleap.vb6.asg.metamodel.Module;

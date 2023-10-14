@@ -1,6 +1,6 @@
 package io.proleap.vb6.transform.java.rules.lang.statement.property.let;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.PropertyLetStmtContext;
 import io.proleap.vb6.asg.metamodel.VisibilityEnum;

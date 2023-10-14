@@ -1,6 +1,6 @@
 package io.proleap.vb6.transform.java.rules.lang.statement.select;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import org.antlr.v4.runtime.ParserRuleContext;
 

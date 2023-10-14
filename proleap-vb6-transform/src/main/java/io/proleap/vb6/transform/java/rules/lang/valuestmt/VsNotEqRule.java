@@ -2,7 +2,7 @@ package io.proleap.vb6.transform.java.rules.lang.valuestmt;
 
 import java.util.List;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.VsNotContext;
 import io.proleap.vb6.asg.metamodel.valuestmt.EqValueStmt;

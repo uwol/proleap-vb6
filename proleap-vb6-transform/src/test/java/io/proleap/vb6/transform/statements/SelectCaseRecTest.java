@@ -2,11 +2,11 @@ package io.proleap.vb6.transform.statements;
 
 import java.io.File;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.junit.jupiter.api.Test;
 
-import io.micronaut.test.annotation.MicronautTest;
+import io.micronaut.test.extensions.junit5.annotation.MicronautTest;
 import io.proleap.vb6.transform.runner.VbTransformationTestRunner;
 
 @MicronautTest

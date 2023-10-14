@@ -1,6 +1,6 @@
 package io.proleap.vb6.transform.java.rules.lang.statement.open;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.OpenStmtContext;
 import io.proleap.vb6.asg.metamodel.statement.open.Open;

@@ -1,6 +1,6 @@
 package io.proleap.vb6.transform.java.rules.lang.call;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import io.proleap.vb6.VisualBasic6Parser.ImplicitCallStmt_InBlockContext;
 import io.proleap.vb6.asg.metamodel.call.Call;
